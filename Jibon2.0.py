@@ -1,5 +1,5 @@
 # -*- coding: utf-8
-# author by FUEGO X RAJUL
+# author by JIBON XD
 import os
 try:
 	import requests
