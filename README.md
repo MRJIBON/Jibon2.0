@@ -19,6 +19,8 @@ $ pip2 install mechanize
 $ apt install git 
 
 $ git clone https://github.com/Ajijul123aa/Jibon2.0
+
+
 $ cd Jibon2.0
 
 $ python2 Jibon2.0.py
