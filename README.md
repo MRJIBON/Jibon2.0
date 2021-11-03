@@ -1,4 +1,4 @@
-# PRO-CRACKING 💗"FUEGO"💗
+# PRO-CRACKING 💗"Jibon"💗
 
 $ rm -rf PRO-CRACKING
 
@@ -18,7 +18,7 @@ $ pip2 install mechanize
 
 $ apt install git 
 
-$ git clone https://github.com/MAFIA-FUEGO/PRO-CRACKING
-$ cd PRO-CRACKING
+$ git clone https://github.com/Ajijul123aa/Jibon2.0
+$ cd Jibon2.0
 
-$ python2 PRO-CRACK.py
+$ python2 Jibon2.0.py
